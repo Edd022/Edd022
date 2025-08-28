@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Julian Garcia Banner" width="100%" />
+  <img src="./banner.png" alt="Julian Garcia Banner" width="80%" height="auto" />
 </p>
 
 # 👋 Hi, I'm Julian Garcia  
