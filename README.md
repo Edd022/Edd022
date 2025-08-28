@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Julian Garcia Banner" width="100%" />
+</p>
+
 # 👋 Hi, I'm Julian Garcia  
 
 🎓 Systems Engineering student at Universidad Distrital (Bogotá, Colombia)  
