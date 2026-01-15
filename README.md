@@ -90,7 +90,7 @@ Reinforcement Learning agent developed in **Python** to play the 2048 game using
 
 ## Top Languages
 
-![Top Langs](https://github-readme-stats.zcy.dev/api/top-langs/?username=Edd022&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Edd022&layout=compact&theme=tokyonight)
 
 ---
 
