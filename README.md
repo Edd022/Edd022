@@ -22,7 +22,7 @@ Abierto a **primer empleo, proyectos freelance y colaboraciones open source**.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Backend & Languages
 - **Java (Core / OOP / Design Patterns)**
@@ -41,7 +41,7 @@ Abierto a **primer empleo, proyectos freelance y colaboraciones open source**.
 
 ---
 
-## ⭐ Featured Projects
+## Featured Projects
 
 ### 🔹 Hotel Management System
 🔗 https://github.com/Edd022/basesdedatos  
@@ -84,17 +84,17 @@ Reinforcement Learning agent developed in **Python** to play the 2048 game using
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
-![Julian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edd022&show_icons=true&theme=tokyonight)
+![Julian's GitHub stats](https://github-readme-stats.zcy.dev/api?username=Edd022&show_icons=true&theme=tokyonight)
 
-## 🔥 Top Languages
+## Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Edd022&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.zcy.dev/api/top-langs/?username=Edd022&layout=compact&theme=tokyonight)
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 - Email: [garciajulian258@gmail.com](mailto:garciajulian258@gmail.com)
 - LinkedIn: https://www.linkedin.com/in/julian-garcía-a00276174/
